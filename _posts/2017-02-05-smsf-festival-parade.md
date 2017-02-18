@@ -61,7 +61,7 @@ top_term:
   </li>
 </ul><h1><a id="post-1268-_g173nw2qi7j3"></a>Apply to Participate in the Parade</h1>
 <p>
-  Organizations, businesses, or individuals who wish to enter a float into the Shepherd Maple Syrup Festival parade are invited to enter submit an application between now and April 24. The application form can be downloaded here from this festival web site. Contact parade chair Clif Lehner at (989) 506-4728 or by email at clehner50@gmail.com if you have questions.
+  OOrganizations, businesses, or individuals who wish to participate in the Shepherd Maple Syrup Festival parade are invited to submit an application between now and April 24. The application form can be found by clicking on the download below.  Contact parade chair Clif Lehner at (989) 506-4728 or by email at clehner50@gmail.com if you have questions.
 </p>
 <ul>
   <li><a href="https://drive.google.com/open?id=0B490-AjaRizwVjZEa19IMzI0ZDA">Download a parade application</a>
