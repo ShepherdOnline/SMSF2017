@@ -15,6 +15,8 @@ custom_sidebar:
   - none
 top_term:
   - "21"
+medium_post:
+  - 'O:11:"Medium_Post":11:{s:16:"author_image_url";N;s:10:"author_url";N;s:11:"byline_name";N;s:12:"byline_email";N;s:10:"cross_link";s:3:"yes";s:2:"id";N;s:21:"follower_notification";s:3:"yes";s:7:"license";s:19:"all-rights-reserved";s:14:"publication_id";s:12:"881fb60cdbf3";s:6:"status";s:4:"none";s:3:"url";N;}'
 ---
 <p>This year, we have a great schedule of events planned for this year’s Shepherd Maple Syrup Festival taking place April 27-30.  We will once again offer the events that have become festival staples: Arts & Craft Show, Pancake Dinners, Carnival, Old Car Show, Community Dance, and Tractor Pulls.</p>
 <p>The Flea Market, an event we introduced last year, will be returning for 2017. A brand-new event we’ve added to the schedule and which will take place on Saturday afternoon is the Demolition Derby. This was very popular during our Party in the Park this past summer, so we’re excited to bring it back to Shepherd for the Festival.</p>
