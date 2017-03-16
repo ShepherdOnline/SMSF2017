@@ -15,6 +15,8 @@ custom_sidebar:
 ---
 SHEPHERD MAPLE SYRUP FESTIVAL
 
+<h1>ALL BOOTHS ARE FULL</h1>
+
 APRIL 28, 29 and 30 2017
 
 Shepherd HIGH School Gym/Aux Gym and Bus Parking Lot - 100 Hall St. Shepherd, MI
@@ -101,6 +103,6 @@ DEADLINE: <strong>When all spaces are assigned.</strong>
 
 Isabella County Sheriff’s Department 989-772-5911.
 
-<a href="https://drive.google.com/open?id=0B490-AjaRizwSXdpUTNqcmN5Zmc"><strong><em>Download Arts &amp; Craft Registration form here</em></strong></a>
+<h1>** ALL BOOTHS ARE FULL**</h1>
 
 [wpghs target='view' type='link' text='Here is my post on GitHub']
