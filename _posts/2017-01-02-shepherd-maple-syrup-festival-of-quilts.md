@@ -45,7 +45,3 @@ The Festival of Quilts will be held on <strong>Saturday, April 29</strong> durin
 
 
 <em>For more information, contact members of the planning committee: Sherry Dickman, Joan Faulkner, Jeaneane Wood-Nartker, or Merrie Hammel (989) 506-8555. <a href="https://drive.google.com/file/d/0BzEgD9KiYchEZ0hkdHZVV3FSdm1NWjZGZFVxaHVpemloQ3Fr/view?usp=sharing">Brochures containing applications will be available on March 1, 2017</a>.</em>
-
-
-
-  |<a href="https://docs.google.com/document/d/1-qXobdp3txUXkuP8FUXYPMLlYeDOyPpvX8NaW_r8XV0/edit?usp=sharing"> View in Google Drive</a> |
