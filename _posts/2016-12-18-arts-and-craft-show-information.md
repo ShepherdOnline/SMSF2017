@@ -103,6 +103,6 @@ DEADLINE: <strong>When all spaces are assigned.</strong>
 
 Isabella County Sheriff’s Department 989-772-5911.
 
-<h1>** ALL BOOTHS ARE FULL**</h1>
+<h1>ALL BOOTHS ARE FULL</h1>
 
 [wpghs target='view' type='link' text='Here is my post on GitHub']
