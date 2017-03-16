@@ -44,7 +44,7 @@ The Festival of Quilts will be held on <strong>Saturday, April 29</strong> durin
   An added feature of the Festival of Quilts is the “Challenge” section. At last year’s show approximately 45 Winter Wonderland Challenge Packets were picked up by interested quilters. Their challenge is to use an 8 x 8 inch piece of snowflake material in a wall hanging. These will be judged, but more importantly, enjoyed by visitors to the show. Quilters, are your challenges done?
 
 
-<em>For more information, contact members of the planning committee: Sherry Dickman, Joan Faulkner, Jeaneane Wood-Nartker, or Merrie Hammel (989) 506-8555. Brochures containing applications will be available on March 1, 2017.</em>
+<em>For more information, contact members of the planning committee: Sherry Dickman, Joan Faulkner, Jeaneane Wood-Nartker, or Merrie Hammel (989) 506-8555. <a href="https://drive.google.com/file/d/0BzEgD9KiYchEZ0hkdHZVV3FSdm1NWjZGZFVxaHVpemloQ3Fr/view?usp=sharing">Brochures containing applications will be available on March 1, 2017</a>.</em>
 
 
 
