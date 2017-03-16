@@ -12,10 +12,12 @@ wide_assets:
   - ""
 custom_sidebar:
   - none
+top_term:
+  - "70"
 ---
-SHEPHERD MAPLE SYRUP FESTIVAL
-
 <h1>ALL BOOTHS ARE FULL</h1>
+
+SHEPHERD MAPLE SYRUP FESTIVAL
 
 APRIL 28, 29 and 30 2017
 
