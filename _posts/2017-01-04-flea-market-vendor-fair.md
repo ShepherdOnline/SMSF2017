@@ -27,7 +27,7 @@ Thursday, Friday and Saturday
 
 The flea market will consist of a huge collection of vendors, crafts and distributors of a wide variety of new and used goods, curios and collectibles.   There are 30 booths, with no 2 booths offering the same products, so you’ll be sure to find that special treasure or gift.
 <em>
-For booth information or an application send email to <a href="mailto:smsf.fleamarket@gmail.com">smsf.fleamarket@gmail.com</a> </em>
+For booth information or an application send email to <a href="mailto:smsf.fleamarket@gmail.com">smsf.fleamarket@gmail.com</a> or call 989-400-3000. </em>
 
 <a href="https://drive.google.com/open?id=0B490-AjaRizwOWxPZzFSUGxDMlE">Download application Form</a>
 
