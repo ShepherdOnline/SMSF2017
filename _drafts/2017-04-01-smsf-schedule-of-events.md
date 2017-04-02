@@ -16,4 +16,4 @@ custom_sidebar:
 top_term:
   - "21"
 ---
-Here is a copy of the schedule for the 2017 Shepherd Maple Syrup Festival from this year's brochure.
+Here is a copy of the <a href="https://drive.google.com/file/d/0B490-AjaRizwZDN0c2dkWXB3bTQ/view?usp=sharing">schedule for the 2017 Shepherd Maple Syrup Festiva</a>l from this year's brochure.
