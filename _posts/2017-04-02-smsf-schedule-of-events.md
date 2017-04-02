@@ -2,11 +2,12 @@
 ID: 2005
 post_title: SMSF Schedule of Events
 author: ng23055
-post_date: 2017-04-01 20:13:17
+post_date: 2017-04-02 23:06:06
 post_excerpt: ""
 layout: post
-permalink: 'http://www.shepherdmaplesyrupfest.org?p=2005&preview=true&preview_id=2005'
-published: false
+permalink: >
+  http://www.shepherdmaplesyrupfest.org/smsf-schedule-of-events
+published: true
 wide_assets:
   - ""
 medium_post:
@@ -16,4 +17,4 @@ custom_sidebar:
 top_term:
   - "21"
 ---
-Here is a copy of the <a href="https://drive.google.com/file/d/0B490-AjaRizwZDN0c2dkWXB3bTQ/view?usp=sharing">schedule for the 2017 Shepherd Maple Syrup Festiva</a>l from this year's brochure.
+Here is a copy of the [schedule for the 2017 Shepherd Maple Syrup Festiva](https://drive.google.com/file/d/0B490-AjaRizwZDN0c2dkWXB3bTQ/view?usp=sharing)l from this year's brochure.
