@@ -19,21 +19,26 @@ custom_sidebar:
   - none
 top_term:
   - "92"
+ase_map_component_start_point:
+  - 'a:2:{s:3:"lat";d:29.760000000000002;s:3:"lng";d:-95.379999999999995;}'
 ---
-<p>
-  <img src="http://www.shepherdmaplesyrupfest.org/wp-content/uploads/2017/03/word-image.jpeg" class="wp-image-1583" />
+<img src="http://www.shepherdmaplesyrupfest.org/wp-content/uploads/2017/03/word-image.jpeg" class="wp-image-1583" />
 </p>
-<p>
+
+
   The Children’s Village will be held inside the Shepherd Elementary Gym from 1 p.m. to 3 p.m. on Saturday, April 29. The village will feature prizes, clowns and face painting. Admission is free. Children must be chaperoned.
-</p>
-<p>
+
+
+
   <img src="http://www.shepherdmaplesyrupfest.org/wp-content/uploads/2017/03/word-image-1.jpeg" class="wp-image-1584" />
-</p>
-<p>
+
+
+
   <img src="http://www.shepherdmaplesyrupfest.org/wp-content/uploads/2017/03/word-image-2.jpeg" class="wp-image-1585" />
-</p>
-<p>
+
+
+
   <img src="http://www.shepherdmaplesyrupfest.org/wp-content/uploads/2017/03/word-image-3.jpeg" class="wp-image-1586" />
-</p>
-<p><em>For more information, contact Patti Sandel at (989) 828-5534.</em>
-</p>
+
+
+<em>For more information, contact Patti Sandel at (989) 828-5534.</em>
