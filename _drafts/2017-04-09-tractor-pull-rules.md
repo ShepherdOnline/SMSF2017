@@ -1,6 +1,6 @@
 ---
 ID: 2171
-post_title: Tractor-Pull-Rules-2017.docx
+post_title: Tractor Pull Rules
 author: ng23055
 post_date: 2017-04-09 01:18:19
 post_excerpt: ""
@@ -9,6 +9,10 @@ permalink: 'http://www.shepherdmaplesyrupfest.org?p=2171&preview=true&preview_id
 published: false
 wide_assets:
   - ""
+custom_sidebar:
+  - none
+ase_map_component_start_point:
+  - 'a:2:{s:3:"lat";d:29.760000000000002;s:3:"lng";d:-95.379999999999995;}'
 ---
 <p style="text-align: center;"><b>Shepherd Maple Syrup Festival   <img src="http://www.shepherdmaplesyrupfest.org/wp-content/uploads/2017/04/image.png" width="77" height="89" alt="" title=""><img src="http://www.shepherdmaplesyrupfest.org/wp-content/uploads/2017/04/image.png" width="77" height="89" alt="" title=""></b></p>
 <p style="text-align: center;"><b>Cement Tractor Pull Rules</b></p>
