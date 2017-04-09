@@ -1,14 +1,21 @@
 ---
 ID: 2184
-post_title: Tractor-Pull-Flyer.docx
+post_title: Tractor Pull
 author: ng23055
-post_date: 2017-04-09 01:37:53
+post_date: 2017-04-09 02:50:39
 post_excerpt: ""
 layout: post
-permalink: 'http://www.shepherdmaplesyrupfest.org?p=2184&preview=true&preview_id=2184'
-published: false
+permalink: >
+  http://www.shepherdmaplesyrupfest.org/tractor-pull-2
+published: true
 wide_assets:
   - ""
+custom_sidebar:
+  - none
+top_term:
+  - "110"
+ase_map_component_start_point:
+  - 'a:2:{s:3:"lat";d:29.760000000000002;s:3:"lng";d:-95.379999999999995;}'
 ---
 <p></i></s></b></u></p>
 <table><tbody><tr><td><p style="text-align: center;">       <img src="http://www.shepherdmaplesyrupfest.org/wp-content/uploads/2017/04/image-1.png" width="322" height="241" alt="" title=""></p>
