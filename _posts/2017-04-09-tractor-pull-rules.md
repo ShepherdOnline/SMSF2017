@@ -1,12 +1,13 @@
 ---
 ID: 2171
-post_title: Tractor-Pull-Rules-2017.docx
+post_title: Tractor Pull Rules
 author: ng23055
 post_date: 2017-04-09 01:22:36
 post_excerpt: ""
 layout: post
-permalink: 'http://www.shepherdmaplesyrupfest.org?p=2171&preview=true&preview_id=2171'
-published: false
+permalink: >
+  http://www.shepherdmaplesyrupfest.org/tractor-pull-rules
+published: true
 wide_assets:
   - ""
 custom_sidebar:
