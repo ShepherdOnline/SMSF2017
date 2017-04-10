@@ -2,13 +2,16 @@
 ID: 2245
 post_title: Pre-Festival Events
 author: ng23055
-post_date: 2017-04-10 01:44:28
+post_date: 2017-04-10 01:49:02
 post_excerpt: ""
 layout: post
-permalink: 'http://www.shepherdmaplesyrupfest.org?p=2245&preview=true&preview_id=2245'
-published: false
+permalink: >
+  http://www.shepherdmaplesyrupfest.org/pre-festival-events
+published: true
 wide_assets:
   - ""
+ase_map_component_start_point:
+  - 'a:2:{s:3:"lat";d:29.760000000000002;s:3:"lng";d:-95.379999999999995;}'
 ---
 <h2>Saturday, April 15</h2>
 <ul>
