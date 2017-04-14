@@ -27,6 +27,8 @@ featured_media:
     <td class='field'><input id="attachments[2389][navis_media_can_distribute]" name="attachments[2389][navis_media_can_distribute]" type="checkbox" value="1"  /></td>
     </tr>
     </table>";s:4:"meta";s:0:"";}}}
+ase_map_component_start_point:
+  - 'a:2:{s:3:"lat";d:29.760000000000002;s:3:"lng";d:-95.379999999999995;}'
 ---
 <p><img src="http://www.shepherdmaplesyrupfest.org/wp-content/uploads/2017/04/images2F58eebfa5989b0e4ef_x-large.jpg" width="965" height="853" alt="images/58eebfa5989b0e4ef_x-large.jpg" title="null"></p>
 <p>A new event in which participants battle each other while wearing giant, inflated balls has been added to the Shepherd Maple Syrup Festival schedule this year. The event will be located next to the Village Park, and cost $5 for 10 minutes. The air-filled bubbles come in both adult and child sizes.</p>
