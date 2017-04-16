@@ -1,0 +1,15 @@
+---
+ID: 2481
+post_title: Bubble Balls
+author: ng23055
+post_date: 2017-04-16 22:53:10
+post_excerpt: ""
+layout: page
+permalink: >
+  http://www.shepherdmaplesyrupfest.org/bubble-balls
+published: true
+wide_assets:
+  - ""
+custom_sidebar:
+  - none
+---
