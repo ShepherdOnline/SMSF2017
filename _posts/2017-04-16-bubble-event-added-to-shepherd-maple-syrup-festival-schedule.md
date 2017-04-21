@@ -7,8 +7,9 @@ author: ng23055
 post_date: 2017-04-16 22:48:58
 post_excerpt: ""
 layout: post
-permalink: 'http://www.shepherdmaplesyrupfest.org?p=2388&preview=true&preview_id=2388'
-published: false
+permalink: >
+  http://www.shepherdmaplesyrupfest.org/bubble-event-added-to-shepherd-maple-syrup-festival-schedule
+published: true
 wide_assets:
   - ""
 featured_media:
