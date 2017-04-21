@@ -7,9 +7,8 @@ author: ng23055
 post_date: 2017-04-16 22:48:58
 post_excerpt: ""
 layout: post
-permalink: >
-  http://www.shepherdmaplesyrupfest.org/bubble-event-added-to-shepherd-maple-syrup-festival-schedule
-published: true
+permalink: 'http://www.shepherdmaplesyrupfest.org?p=2388&preview=true&preview_id=2388'
+published: false
 wide_assets:
   - ""
 featured_media:
@@ -31,14 +30,12 @@ featured_media:
 custom_sidebar:
   - none
 top_term:
-  - "21"
+  - "111"
 medium_post:
   - 'O:11:"Medium_Post":11:{s:16:"author_image_url";s:68:"https://cdn-images-1.medium.com/fit/c/200/200/0*QRq0o9m-h4b723Zq.jpg";s:10:"author_url";s:28:"https://medium.com/@smsfmich";s:11:"byline_name";N;s:12:"byline_email";N;s:10:"cross_link";s:3:"yes";s:2:"id";s:12:"aac8ef22ce7c";s:21:"follower_notification";s:3:"yes";s:7:"license";s:19:"all-rights-reserved";s:14:"publication_id";s:12:"881fb60cdbf3";s:6:"status";s:5:"draft";s:3:"url";s:41:"https://medium.com/@smsfmich/aac8ef22ce7c";}'
 ase_map_component_start_point:
   - 'a:2:{s:3:"lat";d:29.760000000000002;s:3:"lng";d:-95.379999999999995;}'
 ---
-<img src="http://www.shepherdmaplesyrupfest.org/wp-content/uploads/2017/04/images2F58eebfa5989b0e4ef_x-large.jpg" width="965" height="853" alt="images/58eebfa5989b0e4ef_x-large.jpg" title="null">
-
-A new event in which participants battle each other while wearing giant, inflated balls has been added to the Shepherd Maple Syrup Festival schedule this year. The event will be located next to the Village Park, and cost $5 for 10 minutes. The air-filled bubbles come in both adult and child sizes.
-
-<a href="https://docs.google.com/document/d/1x5k_BIJywcn5JV_TnsNXw02BnTQfWBsBaFhmI3nAOKs/edit?usp=sharing">Edit Document</a>
+<p><img src="http://www.shepherdmaplesyrupfest.org/wp-content/uploads/2017/04/images2F58eebfa5989b0e4ef_x-large.jpg" width="965" height="853" alt="images/58eebfa5989b0e4ef_x-large.jpg" title="null"></p>
+<p>A new event in which participants battle each other while wearing giant, inflated balls has been added to the Shepherd Maple Syrup Festival schedule this year. Thursday's location at the soccer field at the North end of town. Friday, Saturday and Sunday in the Village Park. $5.00 for 10 minutes Come have some fun!</p>
+<p><a href="https://docs.google.com/document/d/1x5k_BIJywcn5JV_TnsNXw02BnTQfWBsBaFhmI3nAOKs/edit?usp=sharing">Edit Document</a></p>
