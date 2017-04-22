@@ -2,13 +2,16 @@
 ID: 2741
 post_title: Carnival Information
 author: ng23055
-post_date: 2017-04-22 00:14:45
+post_date: 2017-04-22 00:32:40
 post_excerpt: ""
 layout: post
-permalink: 'http://www.shepherdmaplesyrupfest.org?p=2741&preview=true&preview_id=2741'
-published: false
+permalink: >
+  http://www.shepherdmaplesyrupfest.org/carnival-information
+published: true
 wide_assets:
   - ""
+ase_map_component_start_point:
+  - 'a:2:{s:3:"lat";d:29.760000000000002;s:3:"lng";d:-95.379999999999995;}'
 ---
 <p>RIDES! GAMES! FOOD!</p>
 <p>FAMILY FUN on the Midway!!</p>
