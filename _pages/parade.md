@@ -13,3 +13,4 @@ wide_assets:
 custom_sidebar:
   - none
 ---
+[aesop_collection collection="113" columns="1" splash="off" order="default" loadmore="off"]
