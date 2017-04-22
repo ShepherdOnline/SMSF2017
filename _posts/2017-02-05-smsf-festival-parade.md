@@ -32,6 +32,8 @@ featured_media:
     <td class='field'><input id="attachments[1573][navis_media_can_distribute]" name="attachments[1573][navis_media_can_distribute]" type="checkbox" value="1"  /></td>
     </tr>
     </table>";s:4:"meta";s:0:"";}}}
+ase_map_component_start_point:
+  - 'a:2:{s:3:"lat";d:29.760000000000002;s:3:"lng";d:-95.379999999999995;}'
 ---
 </p><h1><a id="post-1268-_ysux5kyznfx0"></a>General Information</h1>
 <p><em>April 30, 2017</em>
