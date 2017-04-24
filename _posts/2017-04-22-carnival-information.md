@@ -30,6 +30,8 @@ featured_media:
     <td class='field'><input id="attachments[2760][navis_media_can_distribute]" name="attachments[2760][navis_media_can_distribute]" type="checkbox" value="1"  /></td>
     </tr>
     </table>";s:4:"meta";s:0:"";}}}
+top_term:
+  - "45"
 ase_map_component_start_point:
   - 'a:2:{s:3:"lat";d:29.760000000000002;s:3:"lng";d:-95.379999999999995;}'
 ---
