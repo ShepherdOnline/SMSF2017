@@ -25,7 +25,7 @@ ase_map_component_start_point:
 <p></p>
 <p><b>K-2 grade: </b></p>
 <ul>
-<li>Runner up- Myia Hussey</li>
+<li>Runner up- Myia Huzzey</li>
 <li>Princess-Kearnin Alexander</li>
 </ul>
 <p><b></b></p>
