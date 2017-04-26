@@ -2,11 +2,12 @@
 ID: 3076
 post_title: 2017 SMSF Royalty Pageant
 author: ng23055
-post_date: 2017-04-26 13:30:12
+post_date: 2017-04-26 18:02:49
 post_excerpt: ""
 layout: post
-permalink: 'http://www.shepherdmaplesyrupfest.org?p=3076&preview=true&preview_id=3076'
-published: false
+permalink: >
+  http://www.shepherdmaplesyrupfest.org/2017-smsf-royalty-pageant
+published: true
 wide_assets:
   - ""
 custom_sidebar:
