@@ -9,9 +9,19 @@ permalink: 'http://www.shepherdmaplesyrupfest.org?p=3076&preview=true&preview_id
 published: false
 wide_assets:
   - ""
+custom_sidebar:
+  - none
+top_term:
+  - "21"
+ase_map_component_start_point:
+  - 'a:2:{s:3:"lat";d:29.760000000000002;s:3:"lng";d:-95.379999999999995;}'
 ---
 <p>Here is a video recording of the 2017 Shepherd Maple Syrup Festival Pageant courtesy of MacTV. From their feed:</p>
 <p></p>
-<p>On April 15th The 2017 Shepherd Maple Syrup Pageant(<a href="https://www.facebook.com/ShepherdQueenPageant/">Shepherd Royalty Pageant</a>) was held with Rivers McNeel being crowned Queen. Everyone did a great job and they'll all be around at the <a href="https://www.facebook.com/shepherdmaplesyrupfestival/">Shepherd Maple Syrup Festival</a> this weekend! Check out the entire Pageant filmed by <a href="https://www.facebook.com/MACTVNetwork/">MAC TV Network</a> High School Co-Ops Katelyn & Kylie Hutchinson!</p>
+
+
+<blockquote><p>On April 15th The 2017 Shepherd Maple Syrup Pageant(<a href="https://www.facebook.com/ShepherdQueenPageant/">Shepherd Royalty Pageant</a>) was held with Rivers McNeel being crowned Queen. Everyone did a great job and they'll all be around at the <a href="https://www.facebook.com/shepherdmaplesyrupfestival/">Shepherd Maple Syrup Festival</a> this weekend! Check out the entire Pageant filmed by <a href="https://www.facebook.com/MACTVNetwork/">MAC TV Network</a> High School Co-Ops Katelyn & Kylie Hutchinson!</p></blockquote>
+
+
 <p></p>
 <p>https://vimeo.com/214678529</p>
