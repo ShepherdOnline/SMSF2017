@@ -2,13 +2,16 @@
 ID: 2981
 post_title: Princess Pageant Winners Announced
 author: ng23055
-post_date: 2017-04-24 21:38:43
+post_date: 2017-04-26 18:02:00
 post_excerpt: ""
 layout: post
-permalink: 'http://www.shepherdmaplesyrupfest.org?p=2981&preview=true&preview_id=2981'
-published: false
+permalink: >
+  http://www.shepherdmaplesyrupfest.org/princess-pageant-winners-announced
+published: true
 wide_assets:
   - ""
+ase_map_component_start_point:
+  - 'a:2:{s:3:"lat";d:29.760000000000002;s:3:"lng";d:-95.379999999999995;}'
 ---
 <p><img src="http://www.shepherdmaplesyrupfest.org/wp-content/uploads/2017/04/image-5.jpeg" width="480" height="324" alt="null" title="null"></p>
 <p></p>
