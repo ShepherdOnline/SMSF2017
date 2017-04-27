@@ -2,21 +2,22 @@
 ID: 3172
 post_title: 'Shepherd Maple Syrup Festival Agenda &#8211; Thursday, April 27'
 author: ng23055
-post_date: 2017-04-27 03:25:13
+post_date: 2017-04-27 12:22:20
 post_excerpt: ""
 layout: post
-permalink: 'http://www.shepherdmaplesyrupfest.org?p=3172&preview=true&preview_id=3172'
-published: false
+permalink: >
+  http://www.shepherdmaplesyrupfest.org/shepherd-maple-syrup-festival-agenda-thursday-april-27
+published: true
 wide_assets:
   - ""
-ase_map_component_start_point:
-  - 'a:2:{s:3:"lat";d:29.760000000000002;s:3:"lng";d:-95.379999999999995;}'
 custom_sidebar:
   - none
 top_term:
   - "21"
 medium_post:
   - 'O:11:"Medium_Post":11:{s:16:"author_image_url";N;s:10:"author_url";N;s:11:"byline_name";N;s:12:"byline_email";N;s:10:"cross_link";s:3:"yes";s:2:"id";N;s:21:"follower_notification";s:3:"yes";s:7:"license";s:19:"all-rights-reserved";s:14:"publication_id";s:12:"881fb60cdbf3";s:6:"status";s:5:"draft";s:3:"url";N;}'
+ase_map_component_start_point:
+  - 'a:2:{s:3:"lat";d:29.760000000000002;s:3:"lng";d:-95.379999999999995;}'
 ---
 <p></p>
 <p>A few events will open up Thursday, but the festival is kicked off in the evening with Buddy Night.</p>
