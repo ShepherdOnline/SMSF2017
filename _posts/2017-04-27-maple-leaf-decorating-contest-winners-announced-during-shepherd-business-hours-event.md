@@ -48,7 +48,7 @@ ase_map_component_start_point:
 <p></p>
 <ul>
 <li>Shepherd Elevator - First Place</li>
-<li>HomeTown Computers - Most Creative</li>
+<li>MyTown Computer Service - Most Creative</li>
 <li>St. Vincent Preschool - Community Spirit</li>
 </ul>
 <h2><img src="http://www.shepherdmaplesyrupfest.org/wp-content/uploads/2017/04/image-19.jpeg" width="624" height="468" alt="null" title="null"></h2>
