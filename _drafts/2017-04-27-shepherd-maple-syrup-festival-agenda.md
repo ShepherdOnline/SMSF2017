@@ -9,6 +9,8 @@ permalink: 'http://www.shepherdmaplesyrupfest.org?p=3172&preview=true&preview_id
 published: false
 wide_assets:
   - ""
+ase_map_component_start_point:
+  - 'a:2:{s:3:"lat";d:29.760000000000002;s:3:"lng";d:-95.379999999999995;}'
 ---
 <h1>Shepherd Maple Syrup Festival Agenda</h1>
 <p></p>
