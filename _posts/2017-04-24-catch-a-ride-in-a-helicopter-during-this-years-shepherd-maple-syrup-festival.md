@@ -7,8 +7,9 @@ author: ng23055
 post_date: 2017-04-24 12:11:32
 post_excerpt: ""
 layout: post
-permalink: 'http://www.shepherdmaplesyrupfest.org?p=2932&preview=true&preview_id=2932'
-published: false
+permalink: >
+  http://www.shepherdmaplesyrupfest.org/catch-a-ride-in-a-helicopter-during-this-years-shepherd-maple-syrup-festival
+published: true
 wide_assets:
   - ""
 custom_sidebar:
