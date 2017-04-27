@@ -1,6 +1,9 @@
 ---
 ID: 3230
-post_title: Shepherd After Hours
+post_title: >
+  Maple Leaf Decorating Contest winners
+  announced during Shepherd Business Hours
+  Event
 author: ng23055
 post_date: 2017-04-27 16:11:23
 post_excerpt: ""
