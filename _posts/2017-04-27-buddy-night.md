@@ -39,4 +39,4 @@ ase_map_component_start_point:
 ---
 <p><img src="http://www.shepherdmaplesyrupfest.org/wp-content/uploads/2017/04/image-13.jpeg" width="624" height="468" alt="null" title="null"></p>
 <p></p>
-<p>The Carnival Rides will open tonight, Thursday, April 27, at 6 p.m. They will stay open into the late evening, although there isn’t a set time in the schedule. The cost of a wristband for Buddy Night is two for $20.</p>
+<p>The Carnival Rides will open tonight, Thursday, April 27, at 5 p.m. They will stay open into the late evening, although there isn’t a set time in the schedule. The cost of a wristband for Buddy Night is two for $20.</p>
