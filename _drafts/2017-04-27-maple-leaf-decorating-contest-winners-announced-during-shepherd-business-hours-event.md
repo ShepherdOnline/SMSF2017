@@ -12,6 +12,12 @@ permalink: 'http://www.shepherdmaplesyrupfest.org?p=3230&preview=true&preview_id
 published: false
 wide_assets:
   - ""
+custom_sidebar:
+  - none
+top_term:
+  - "21"
+ase_map_component_start_point:
+  - 'a:2:{s:3:"lat";d:29.760000000000002;s:3:"lng";d:-95.379999999999995;}'
 ---
 <p><img src="http://www.shepherdmaplesyrupfest.org/wp-content/uploads/2017/04/image-14.jpeg" width="624" height="468" alt="null" title="null"></p>
 <p></p>
