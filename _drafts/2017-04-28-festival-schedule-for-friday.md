@@ -9,6 +9,12 @@ permalink: 'http://www.shepherdmaplesyrupfest.org?p=3330&preview=true&preview_id
 published: false
 wide_assets:
   - ""
+custom_sidebar:
+  - none
+top_term:
+  - "21"
+ase_map_component_start_point:
+  - 'a:2:{s:3:"lat";d:29.760000000000002;s:3:"lng";d:-95.379999999999995;}'
 ---
 <p>The Shepherd Maple Syrup Festival officially kicks off today with a full slate of events. The Flea Market, helicopter rides, and Carnival Rides continue today. In the afternoon, other events like the Pancake Dinners, Bubble Balls, and the Arts & Craft Show will open. Tonight, the day closes with an Emergency Vehicle Parade. Here is a quick run through of today’s activities.</p>
 <p></p>
