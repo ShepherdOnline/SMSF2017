@@ -2,11 +2,12 @@
 ID: 3330
 post_title: Festival Schedule for Friday
 author: ng23055
-post_date: 2017-04-28 14:34:54
+post_date: 2017-04-28 15:03:43
 post_excerpt: ""
 layout: post
-permalink: 'http://www.shepherdmaplesyrupfest.org?p=3330&preview=true&preview_id=3330'
-published: false
+permalink: >
+  http://www.shepherdmaplesyrupfest.org/festival-schedule-for-friday
+published: true
 wide_assets:
   - ""
 custom_sidebar:
@@ -18,7 +19,7 @@ medium_post:
 ase_map_component_start_point:
   - 'a:2:{s:3:"lat";d:29.760000000000002;s:3:"lng";d:-95.379999999999995;}'
 ---
-<p>The Shepherd Maple Syrup Festival officially kicks off today with a full slate of events. The Flea Market, helicopter rides, and Carnival Rides continue today. In the afternoon, other events like the Pancake Dinners, Bubble Balls, and the Arts & Craft Show will open. Tonight, the day closes with an Emergency Vehicle Parade. Here is a quick run through of today’s activities.</p>
+<p>The Shepherd Maple Syrup Festival officially kicks off today with a full slate of events. The Flea Market, <a href="https://www.facebook.com/events/271497673309548/" target="_blank">helicopter rides</a>, and Carnival Rides continue today. In the afternoon, other events like the Pancake Dinners, Bubble Balls, and the Arts & Craft Show will open. Tonight, the day closes with an Emergency Vehicle Parade. Here is a quick run through of today’s activities.</p>
 <p></p>
 <p><img src="http://www.shepherdmaplesyrupfest.org/wp-content/uploads/2017/04/smsf-map.jpg" width="624" height="806" alt="smsf-map.jpg" title="null"></p>
 <h2><a href="https://www.facebook.com/events/1777742332556334/">Flea Market Vendors Fair</a></h2>
