@@ -10,8 +10,6 @@ published: false
 wide_assets:
   - ""
 ---
-<h1>Festival Schedule for Friday</h1>
-<p></p>
 <p>The Shepherd Maple Syrup Festival officially kicks off today with a full slate of events. The Flea Market, helicopter rides, and Carnival Rides continue today. In the afternoon, other events like the Pancake Dinners, Bubble Balls, and the Arts & Craft Show will open. Tonight, the day closes with an Emergency Vehicle Parade. Here is a quick run through of today’s activities.</p>
 <p></p>
 <p><img src="http://www.shepherdmaplesyrupfest.org/wp-content/uploads/2017/04/smsf-map.jpg" width="624" height="806" alt="smsf-map.jpg" title="null"></p>
